@@ -1,0 +1,32 @@
+{
+  "name": "name",
+  "version": "1.0.0",
+  "description": "",
+  "author": "terehof",
+  "license": "free",
+  "devDependencies": {
+    "gulp": "^3.8.1",
+    "gulp-autoprefixer": "*",
+    "gulp-connect": "*",
+    "gulp-concat": "*",
+    "gulp-cssmin": "*",
+    "gulp-jsmin": "*",
+    "gulp-less": "*",
+    "gulp-less-sourcemap": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-rigger": "*",
+    "gulp-util": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "connect-history-api-fallback": "*",
+    "opn": "*",
+    "browser-sync": "*",
+    "rimraf": "*",
+    "gulp-file-include": "*"
+  },
+  "dependencies": {
+    "browser-sync": "^2.9.3",
+    "gulp-rename": "^1.2.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}
